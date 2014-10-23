@@ -1,0 +1,27 @@
+INSIDE MAIN BEAM
+
+- recollimation optics (divergent + convergent silver mirror)
+- lambda/4 waveplate (soon as possible after fiber, minimum aperture 20mm)
+- 3 attenuators (p-pol)
+- Brewster window (outcoupling -> compression chamber)
+- NONATTOFROG:
+-- wedgepair (translation motorized)
+-- periscope
+-- near + farfield correction (motorized!) (close after fiber)
+- ATTOFROG:
+-- wedgepair (translation + rotation motorized)
+-- rotating periscope (after wedges)
+-- lambda/2 waveplate (after wedges)
+-- near + farfield correction (motorized!) (fiber + wedges)
+- diagnostics for near and farfield (after near + farfield correction)
+- 6 CMs @ 5° (p-pol)
+- 6 CMs @ 19° (p-pol)
+- pickoff for CEP (preferable after CMs)
+- shutter (after pickoff for CEP) (+ flip if shutter gets too hot)
+- prepulse pickoff (after shutter)
+- beamexpanding telescope (after CMs + att. + shutter)
+- deformable mirror (after telescope)
+- pickoff for SH wavefront sensor (after deformable mirror)
+- pickoff for FROG (after CMs, before shutter) (could be also taken from the 
+
+
