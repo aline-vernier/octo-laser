@@ -2,7 +2,7 @@ INSIDE MAIN BEAM
 
 - recollimation optics (divergent + convergent silver mirror)
 - lambda/4 waveplate (soon as possible after fiber, minimum aperture 20mm)
-- 3 attenuators (p-pol)
+- 3 attenuators (p-pol, 1 before, 2 after prepulse pickoff)
 - Brewster window (outcoupling -> compression chamber)
 - NONATTOFROG:
 -- wedgepair (translation motorized)
@@ -25,4 +25,8 @@ INSIDE MAIN BEAM
 - pickoff for FROG (after CMs, before shutter) (could be also taken from the 
 - HeNe injection
 
+INSIDE PREPULSE
 
+- delay line
+- FORHHG
+-- beamreducing telescope
