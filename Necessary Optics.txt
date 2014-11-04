@@ -25,8 +25,8 @@ INSIDE MAIN BEAM
 - pickoff for FROG (after CMs, before shutter) (could be also taken from the 
 - HeNe injection
 
-INSIDE PREPULSE
 
+INSIDE PREPULSE
 - delay line
 - FORHHG
 -- beamreducing telescope
