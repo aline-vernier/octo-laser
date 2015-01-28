@@ -2,7 +2,7 @@ INSIDE MAIN BEAM
 
 - recollimation optics (divergent + convergent silver mirror)
 - lambda/4 waveplate (soon as possible after fiber, minimum aperture 20mm)
-- 3 attenuators (p-pol, 1 before, 2 after prepulse pickoff)
+- 3 attenuators (p-pol)
 - Brewster window (outcoupling -> compression chamber)
 - NONATTOFROG:
 -- wedgepair (translation motorized)
@@ -16,7 +16,7 @@ INSIDE MAIN BEAM
 - diagnostics for near and farfield (after near + farfield correction)
 - 6 CMs @ 5° (p-pol)
 - 6 CMs @ 19° (p-pol)
-- pickoff for CEP (preferable after CMs)
+- pickoff for CEP (between CMs)
 - shutter (after pickoff for CEP) (+ flip if shutter gets too hot)
 - prepulse pickoff (after shutter)
 - beamexpanding telescope (after CMs + att. + shutter)
