@@ -1,0 +1,51 @@
+
+3rd pass in PowerAmplifier
+- 8CMs should be enough in incoupling chamber
+
+Beamlevel
+- uniformely at 200 mm (input/output chamber, fiber)
+- enter the postcompression chamber at 200mm and rise the beam with a custom made periscope to 250 mm
+
+Chamber
+- Mechanical stability:
+-- feets for breadboard: 50 mm in diameter
+-- breadboard thickness: 30 mm
+- plexiglass covers!
+
+HCF
+- !! what is the minimal distance the HCF should have to the chamber
+
+
+Beamblocking
+- Beamstabilization system needs the beam before it can stabilize
+-- Attenuation before chamber and blocking the fiber entrance. After Beamstab started, open the HCF and increase energy.
+-- Alternatively: Find a material that can be inserted before HCF. Ceramic; At 5° to increase damage threshold
+
+Windows
+- many windows in incoupling/outcoupling chamber
+- window in outcoupling chamber separating HCF to chamber. From inside
+- entrance to postcompression chamber: at brewster angle, thick (4 bar, (3 bar rel -> vac))
+
+Beamalignement
+- outcoupling chamber: near and far field 
+
+Attenuation
+- 1 attenuator before incoupling chamber; should be motorized for better reproducibility
+- 1 attenuator in outcoupling chamber. (Maybe 2?)
+
+Diagnostics
+-Input Chamber
+-- Wizzler: Measurement by replacing the two mirrors following the CMs by wedges and exiting the beam to the front, or to the side (DM50)
+-Focus
+-- Focus: Attenuation same as Wizzler, then instead of HCF a windows + CCD (Do we need an easier solution for this?)
+- Beamstabilization: Piezomorror feedbacked by a leak from the last mirror. FemtoStab seems to work for this configuration, but at the limit.
+
+
+Prepulse
+- mirror partly coated to let prepulse through
+- or spatial seperation
+- needs to be seperated after CMs, no space to compress both pulses
+
+Attofrog
+- how to do it? There needs to be a polarization rotating periscope
+- need to readjust the beam (near and far field!)
